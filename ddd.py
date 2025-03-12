@@ -1,1 +1,1 @@
-print("ddd")
+print("아집가고싶노노")
